@@ -1,7 +1,7 @@
 import 'dart:math';
 
 void main() {
-  var ans = demo(5, 2, 4, 6); // expected ans is 10
+  var ans = demo(4, 3, 9, 27); // expected ans is 10
   print(ans.runtimeType);
   print(ans);
 }
